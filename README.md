@@ -1,2 +1,2 @@
 # next.js
-create a backend next.js file to call API for website
+created a backend next.js file to call API for website enabling CORS 
